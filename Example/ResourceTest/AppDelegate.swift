@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  ResourceTest
 //
-//  Created by Vanessa Sun on 06/07/2016.
-//  Copyright (c) 2016 Vanessa Sun. All rights reserved.
+//  Created by ConnectDotz on 06/07/2016.
+//  Copyright (c) 2016 ConnectDotz. All rights reserved.
 //
 
 import UIKit

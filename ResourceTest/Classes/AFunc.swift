@@ -2,8 +2,6 @@
 //  AFunc.swift
 //  Pods
 //
-//  Created by Vanessa Sun on 6/7/16.
-//
 //
 
 import Foundation

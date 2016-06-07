@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## ResourceTest
 
-Copyright (c) 2016 Vanessa Sun <vsun@connectdotz.com>
+Copyright (c) 2016 ConnectDotz 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

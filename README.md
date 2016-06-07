@@ -1,6 +1,6 @@
 # ResourceTest
 
-[![CI Status](http://img.shields.io/travis/Vanessa Sun/ResourceTest.svg?style=flat)](https://travis-ci.org/Vanessa Sun/ResourceTest)
+[![CI Status](http://img.shields.io/travis/ConnectDotz/ResourceTest.svg?style=flat)](https://travis-ci.org/ConnectDotz/ResourceTest)
 [![Version](https://img.shields.io/cocoapods/v/ResourceTest.svg?style=flat)](http://cocoapods.org/pods/ResourceTest)
 [![License](https://img.shields.io/cocoapods/l/ResourceTest.svg?style=flat)](http://cocoapods.org/pods/ResourceTest)
 [![Platform](https://img.shields.io/cocoapods/p/ResourceTest.svg?style=flat)](http://cocoapods.org/pods/ResourceTest)
