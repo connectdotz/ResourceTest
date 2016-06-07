@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod "ResourceTest"
 ```
 
-## Author
-
-Vanessa Sun, vsun@connectdotz.com
-
 ## License
 
 ResourceTest is available under the MIT license. See the LICENSE file for more info.
