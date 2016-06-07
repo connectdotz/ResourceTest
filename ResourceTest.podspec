@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/<GITHUB_USERNAME>/ResourceTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Vanessa Sun' => 'vsun@connectdotz.com' }
+  s.author           = { 'X Y' => 'X@Y.com' }
   s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/ResourceTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
@@ -32,9 +32,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'ResourceTest/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'ResourceTest' => ['ResourceTest/Assets/*.png']
-  # }
+   s.resource_bundles = {
+     'ResourceTest' => ['ResourceTest/Assets/**/*']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'

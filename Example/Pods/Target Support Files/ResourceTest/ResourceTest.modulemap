@@ -1,0 +1,6 @@
+framework module ResourceTest {
+  umbrella header "ResourceTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

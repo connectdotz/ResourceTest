@@ -1,0 +1,27 @@
+{
+  "name": "ResourceTest",
+  "version": "0.1.0",
+  "summary": "A short description of ResourceTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/ResourceTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vanessa Sun": "vsun@connectdotz.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/ResourceTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ResourceTest/Classes/**/*",
+  "resource_bundles": {
+    "ResourceTest": [
+      "ResourceTest/Assets/**/*"
+    ]
+  }
+}
